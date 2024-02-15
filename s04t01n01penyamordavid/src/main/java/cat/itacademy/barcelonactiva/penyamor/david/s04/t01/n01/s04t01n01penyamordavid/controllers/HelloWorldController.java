@@ -1,4 +1,4 @@
-package controllers;
+package cat.itacademy.barcelonactiva.penyamor.david.s04.t01.n01.s04t01n01penyamordavid.controllers;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
